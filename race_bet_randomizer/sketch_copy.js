@@ -21,7 +21,7 @@ let name=["The Stallion", "The Ice Charger","Symbol","Bartholomew","The Speedste
 let pixel
 
 function preload() {
-  pixel=loadFont("Pixel.ttf")
+  pixel=loadFont("pixel.ttf")
   carSkin.push(loadImage("BlueCar.png"));
   carSkin.push(loadImage("GreenCar.png"));
   carSkin.push(loadImage("WhiteCar.png"));
